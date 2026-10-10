@@ -27,12 +27,12 @@ projeto05-popup/
 
 ## ▶️ Como executar
 
-1. Baixe ou clone o projeto.
-2. Abra a pasta `projeto05-popup`.
-3. Abra o arquivo `index.html` em um navegador.
+1. Abra a pasta do projeto no seu editor de código.
+2. Localize o arquivo `index.html`.
+3. Abra-o em um navegador.
 4. Clique em **Enviar** para abrir o pop-up e em **OK** para fechá-lo.
 
-Não é necessário instalar dependências nem iniciar um servidor.
+Você também pode usar uma extensão como Live Server no VS Code para uma experiência mais prática.
 
 ## Observação
 
